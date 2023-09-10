@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # swEDU Last Weekly Project
 
 이 프로젝트는 swEDU에서 진행한 Last Weekly Project입니다. 웹 플랫폼을 개발하는 프로젝트로, 프론트엔드는 리액트를 사용하여 개발되었고, 백엔드는 Node.js와 Firebase 데이터베이스를 이용하여 완성되었습니다.
@@ -52,3 +53,7 @@ Student ID: 20191394)
 (This project depends on the following packages:)
 
 - [React](https://reactjs.org/)
+=======
+# swEDU
+swEDU last weeklyproject
+>>>>>>> 03cf5f155510fd6ab236addebbef038e7eca9064
