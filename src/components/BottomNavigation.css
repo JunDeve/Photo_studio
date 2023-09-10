@@ -1,0 +1,35 @@
+/* BottomNavigation.css */
+
+.bottom-navigation {
+    position: fixed; /* 화면 하단에 고정 */
+    bottom: 0; /* 하단으로 정렬 */
+    width: 100%; /* 가로폭 100%로 설정 */
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 0;
+    box-shadow: 0px -3px 5px 0px rgba(0, 0, 0, 0.2);
+  }
+
+.bottom-navigation {
+    display: flex;
+    justify-content: space-around;
+    background-color: #007BFF; /* 배경색 설정 */
+    color: #fff; /* 텍스트 색상 설정 */
+    padding: 10px 0; /* 위아래 여백 설정 */
+    box-shadow: 0px -3px 5px 0px rgba(0, 0, 0, 0.2); /* 그림자 효과 추가 */
+  }
+  
+  .bottom-navigation a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold; /* 텍스트 굵게 설정 */
+    font-size: 16px; /* 폰트 크기 설정 */
+  }
+  
+  .bottom-navigation a:hover {
+    text-decoration: underline; /* 마우스 호버 시 밑줄 표시 */
+  }
+  

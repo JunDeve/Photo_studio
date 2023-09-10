@@ -1,0 +1,21 @@
+/* ContactPage.css*/
+
+.form-box {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+.form-box label {
+    text-align: left;
+  }
+  
+.form-box input,
+.form-box textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+  }
+  
