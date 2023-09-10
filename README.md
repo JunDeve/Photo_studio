@@ -1,2 +1,0 @@
-# swEDU
-swEDU last weeklyproject
