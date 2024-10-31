@@ -1,10 +1,8 @@
-# swEDU Last Weekly Project
+웹 플랫폼을 개발하는 프로젝트로, 프론트엔드는 리액트를 사용하여 개발되었고, 백엔드는 Node.js와 Firebase 데이터베이스를 이용하여 완성되었습니다.
 
-이 프로젝트는 swEDU에서 진행한 Last Weekly Project입니다. 웹 플랫폼을 개발하는 프로젝트로, 프론트엔드는 리액트를 사용하여 개발되었고, 백엔드는 Node.js와 Firebase 데이터베이스를 이용하여 완성되었습니다.
+(It is a web platform development project that utilizes React for the frontend and Node.js with Firebase database for the backend.)
 
-(This project is the Last Weekly Project conducted at swEDU. It is a web platform development project that utilizes React for the frontend and Node.js with Firebase database for the backend.)
-
-## 실행 방법 ( How to Run )
+# 실행 방법 ( How to Run )
 
 프로젝트를 로컬 환경에서 실행하려면 다음 단계를 따르십시오:
 (To run the project in a local environment, follow these steps:)
@@ -20,7 +18,7 @@ node server.js
 http://localhost:5000/
 
 
-### 기능 ( Features )
+## 기능 ( Features )
 
 이 프로젝트는 다음과 같은 주요 기능을 제공합니다:
 
@@ -36,17 +34,7 @@ Board Page
 Inquiry Page
 For detailed usage and features, please refer to the notices.)
 
-#### 작성자 ( Author )
-
-이름: 김준
-학교: 경일대학교
-학번: 20191394
-
-(Name: Kim Jun
-University: Kyungil University
-Student ID: 20191394)
-
-##### 의존성 ( Dependencies )
+### 의존성 ( Dependencies )
 
 이 프로젝트는 다음 패키지에 의존합니다:
 (This project depends on the following packages:)
